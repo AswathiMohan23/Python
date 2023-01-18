@@ -1,3 +1,4 @@
-.main.py
-./idea
-.venv
+.idea
+.gitignore
+./venv
+main.py
