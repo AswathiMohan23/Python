@@ -9,3 +9,10 @@ class Person(object):
 
 emp1 = Person("Tom", 2)
 emp1.Display()
+
+class Employee (Person) :
+    def print(self):
+        print("")
+
+details = Employee("John",3)
+details.Display()
