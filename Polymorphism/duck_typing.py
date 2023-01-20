@@ -16,7 +16,7 @@ class Laptop:
     def code(self,editor):
         editor.execute()
 
-
+#----------------------------------------------------------------------------
 editor = MyEditor()
 lap1 = Laptop()
 lap1.code(editor)
