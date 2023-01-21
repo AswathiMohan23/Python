@@ -2,6 +2,7 @@ class A:
     def show(self):
         print("show method in class A")
 
+
 class B(A):
     def show(self):
         print("show method of B overRides A")
