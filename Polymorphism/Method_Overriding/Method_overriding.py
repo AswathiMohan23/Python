@@ -8,7 +8,6 @@ class B(A):
     
 """
 
-
 class B(A):
     def show(self):
         print("show method of B overRides A")
